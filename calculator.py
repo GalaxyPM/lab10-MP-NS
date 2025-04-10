@@ -1,9 +1,3 @@
-"""
-calculator.py
-- Defines functions used to create a simple calculator
-
-One function per operation, in order.
-"""
 # https://github.com/GalaxyPM/lab10-MP-NS.git
 # Partner 1: Marcelo Palmer
 # Partner 2: Nicolas Salazar
