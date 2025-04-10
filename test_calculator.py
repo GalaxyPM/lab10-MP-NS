@@ -48,7 +48,7 @@ class TestCalculator(unittest.TestCase):
 
     def test_log_invalid_base(self): # 1 assertion
         try:
-            log(1,10)
+            logarithm(1,10)
             self.fail("expected ValueError not raised")
         except ValueError:
             pass
