@@ -4,6 +4,10 @@ calculator.py
 
 One function per operation, in order.
 """
+# https://github.com/GalaxyPM/lab10-MP-NS.git
+# Partner 1: Marcelo Palmer
+# Partner 2: Nicolas Salazar
+
 # First example
 import math
 
