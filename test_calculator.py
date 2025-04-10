@@ -1,4 +1,3 @@
-
 # https://github.com/GalaxyPM/lab10-MP-NS.git
 # Partner 1: Marcelo Palmer
 # Partner 2: Nicolas Salazar
